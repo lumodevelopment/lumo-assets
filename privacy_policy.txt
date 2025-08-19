@@ -230,7 +230,7 @@ As part of the developer's Maturaarbeit (Swiss final thesis project), we manuall
 • Anonymized quotes from user feedback may be included in the final thesis to illustrate user experiences
 • All personal identifiers are removed before analysis, and no individual users can be identified in the research
 
-This research is conducted for educational purposes only and contributes to understanding how digital tools can enhance educational experiences. Participation in this research is inherent to using the app, but all data is processed anonymously and used solely for academic evaluation.
+This research is conducted for educational purposes only and contributes to understanding how digital tools can enhance educational experiences. Participation in this research is inherent to using the app, but all collectd usage/analytical data is processed anonymously and used solely for academic evaluation.
 
 QUESTIONS AND CONCERNS
 
