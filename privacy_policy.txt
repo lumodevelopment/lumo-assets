@@ -1,6 +1,7 @@
 LUMO PRIVACY POLICY
 
-Last Updated: August 14, 2025
+Last Updated: August 19, 2025
+Updated Sections: 1.2, 2, 16.2
 
 INTRODUCTION
 
@@ -31,6 +32,7 @@ We automatically collect certain information when you use our App:
 • Device Information: Device identifier (used solely for notification session management, not for user tracking), app version, and device session data
 • Usage Data: Creation and update timestamps for educational content (events, subjects) and basic audit metadata for transparency and accountability within class environments. We do not track user behavior or app usage patterns
 • Technical Data: Information necessary for app functionality, including sync timestamps and offline cache data (stored locally on your device only)
+• Analytical Data: Anonymized usage patterns and app performance metrics collected for research purposes related to the developer's Maturaarbeit (final thesis project) to evaluate the effectiveness of the educational app
 
 1.3 Information from Third Parties
 We receive information from the following third-party services we use to operate our App:
@@ -50,6 +52,7 @@ We use the information we collect solely to provide and improve the Lumo service
 • To maintain app security and prevent abuse
 • To comply with legal obligations
 • To improve app performance and fix technical issues
+• To conduct research for the developer's Maturaarbeit (final thesis project), including analyzing anonymized usage data to evaluate app effectiveness and processing user-submitted feedback and bug reports (which may be quoted anonymously in the thesis)
 
 We do not use your information for advertising, marketing, or any commercial purposes beyond providing the Lumo service.
 
@@ -218,6 +221,16 @@ In the event of a merger, acquisition, or sale of assets, your information may b
 • We do not use third-party analytics services
 • We do not display advertisements
 • We only use Apple's built-in app analytics and Supabase's operational analytics for app improvement
+
+16.2 Maturaarbeit Research
+As part of the developer's Maturaarbeit (Swiss final thesis project), we manually collect and analyze some anonymized data to evaluate the educational effectiveness of Lumo. This research includes:
+
+• Anonymized usage patterns and app performance metrics
+• Analysis of user-submitted feedback and bug reports (submitted through the app's feedback system)
+• Anonymized quotes from user feedback may be included in the final thesis to illustrate user experiences
+• All personal identifiers are removed before analysis, and no individual users can be identified in the research
+
+This research is conducted for educational purposes only and contributes to understanding how digital tools can enhance educational experiences. Participation in this research is inherent to using the app, but all data is processed anonymously and used solely for academic evaluation.
 
 QUESTIONS AND CONCERNS
 
